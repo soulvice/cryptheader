@@ -1,1 +1,1 @@
-# collection of installation scripts
+## collection of installation scripts
