@@ -15,7 +15,7 @@ For example (storing the key and header on a seperate device. ie: usb-thumbdrive
 **Steps**
 
 1. cd /usr/lib/initramfs/install
-2. git clone https://github.com/soulvice/installation_mods.git
+2. git clone https://github.com/soulvice/cryptheader.git
 3. cp /usr/lib/initramfs/hook/encrypt{,2}
 4. nano /etc/mkinitcpio.conf
 5. in 'BINARIES' add the format of your drive holding the key and cryptheader files. ie: ext4, fat, etc....
